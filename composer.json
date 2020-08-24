@@ -1,0 +1,11 @@
+{
+    "name": "saul-ponce/simple-session-manager",
+    "description": "Simple sessions manager",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "files": ["Session.php"]
+    }
+}
